@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tribute Page</title>
+</head>
+<body>
+   <main>
+       <h1>Dr. Meredith Grey</h1>
+       <p>Lorem ipsum dolor sit amet.</p>
+       <figure id = "img-div">
+        <img 
+        id = "image" 
+        src= "https://images.unsplash.com/photo-1526510747491-58f928ec870f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
+        alt = "model"
+        style = "height:700px; width:700px;"
+        >
+        <figcaption>Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium tempora facilis ipsam adipisci soluta dicta.</figcaption>
+       </figure>
+
+       <section id = "tribute-info">
+           <h3>Here's a timeline of Dr.Grey's life:</h3>
+           <ul>
+               <li><strong>1989</strong>-Lorem ipsum dolor sit amet consectetur adipisicing elit. Assumenda, nostrum.</li>
+               <li><strong>1990</strong>-Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quis tenetur eligendi quisquam officia accusamus assumenda fuga voluptates hic doloribus repellat.</li>
+               <li><strong>1991</strong>-Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laboriosam adipisci ipsum, incidunt doloremque perferendis porro vel atque doloribus consequatur necessitatibus est placeat reiciendis, animi omnis suscipit quasi. Amet, culpa ea!</li>
+               <li><strong>1992</strong>-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam, laboriosam.</li>
+               <li><strong>1993</strong>-Lorem ipsum, dolor sit amet consectetur adipisicing elit. Voluptas voluptate voluptatum, eos accusamus accusantium atque id fugit quo? Facere odit eum architecto nulla rerum libero laborum accusamus eveniet enim inventore.</li>
+               <li><strong>1994</strong>-Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit repellendus tenetur temporibus quia qui, modi culpa, magni itaque earum sunt impedit corrupti corporis sed minus amet debitis illo, ad asperiores?</li>
+               <li><strong>1995</strong>-Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate, explicabo.</li>
+               <li><strong>1996</strong>-Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate quo animi in vero! Magni quos, velit tempora vel assumenda odit reprehenderit reiciendis eveniet fugit architecto dolore at, aspernatur voluptates ab ut sequi sunt totam aliquam quam facere rem. Aliquid, adipisci.</li>
+               <li><strong>1997</strong>-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Atque quo eius a vero recusandae praesentium consequuntur maiores quaerat maxime harum.</li>
+               <li><strong>1998</strong>-Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates, accusamus!</li>
+               <li><strong>1999</strong>-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias consequatur delectus cum ipsa ducimus impedit perferendis dolore id nihil sapiente, nobis non culpa fugit earum dolorum distinctio. Voluptas, officiis molestiae.</li>
+               <li><strong>2000</strong>-Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint, dolore doloremque nulla nisi eos architecto unde ipsum alias saepe ad!</li>
+               <li><strong>2001</strong>-Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ipsum, adipisci!</li>
+               <li><strong>2002</strong>-Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odit explicabo est inventore, nisi accusamus quis eveniet ad voluptas tenetur. Autem?</li>
+               <li><strong>2003</strong>-Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem incidunt ut, cum deleniti quae quaerat assumenda eum optio amet natus reprehenderit esse nesciunt mollitia quia quibusdam illum magni temporibus, saepe dicta accusamus harum corporis? Neque doloremque provident mollitia commodi nihil!</li>
+               <li><strong>2004</strong>-Lorem ipsum dolor sit amet.</li>
+           </ul>
+        <blockquote cite="https://www.healthline.com/health/greys-anatomy-quotes#6">
+            <p>
+             "We’re all going to die. We don’t get much say over how or when, but we do get to decide how we’re gonna live. So, do it. Decide. Is this the life you want to live? Is this the person you want to love? Is this the best you can be? Can you be stronger? Kinder? More Compassionate? Decide. Breathe in. Breathe out and decide."
+            </p>
+            <cite>--Dr.Richard Webber</cite>
+        </blockquote>
+        <h3>
+            If you have time read about this incredible human being on 
+            <a id = "tribute-link" href="https://en.wikipedia.org/wiki/Meredith_Grey" target="_blank">Wikipedia Entry</a>
+        </h3>
+       </section>
+   </main> 
+</body>
+</html>
